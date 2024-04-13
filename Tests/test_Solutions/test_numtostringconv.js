@@ -1,6 +1,6 @@
 '''tests the numtostringconv file'''
 
-import squareDigits from '../Solutions/squareDigits';
+import squareDigits from '../Solutions/numtostringconv';
 
 
 const { assert } = require("chai")
