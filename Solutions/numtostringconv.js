@@ -5,3 +5,5 @@ function squareDigits(num){
   let result = parseInt(sqr.join(''), 10); //joins the sqr of each digit and makes one int number
   return result;
 }
+
+module.exports = squareDigits;
